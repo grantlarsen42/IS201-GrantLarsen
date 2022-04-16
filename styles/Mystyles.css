@@ -1,0 +1,29 @@
+.indent{
+    text-indent:20px;
+}
+
+.center-graphic{
+margin: auto;
+max-width:1000px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.center-text {
+    text-align: center;
+  }
+
+.aboutme-resume {
+    text-align: center;
+    font-size: 250%;
+}
+
+.resume-header{
+    font-weight: bold;
+}
+
+.resume-content {
+    font-style: italic ;
+}
